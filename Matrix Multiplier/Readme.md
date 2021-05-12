@@ -1,12 +1,13 @@
 # PES CCBD Project: 4x4 Matrix Multiplier
 
-## Software Installation steps:
+Software Installation steps:
+
 <ul>
-	<li> sudo apt-get update </li>
+	* sudo apt-get update 
 
-	<li> sudo apt-get install iverilog </li>
+	* sudo apt-get install iverilog 
 
-	<li> sudo apt-get install gtkwave </li>
+	* sudo apt-get install gtkwave 
 </ul>
 
 ## Execution steps:
