@@ -3,11 +3,12 @@
 Software Installation steps:
 
 <ul>
-	* sudo apt-get update 
+	
+	sudo apt-get update 
 
-	* sudo apt-get install iverilog 
+	sudo apt-get install iverilog 
 
-	* sudo apt-get install gtkwave 
+	sudo apt-get install gtkwave 
 </ul>
 
 ## Execution steps:
