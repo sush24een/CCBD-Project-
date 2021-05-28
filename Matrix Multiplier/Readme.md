@@ -16,14 +16,14 @@ Software Installation steps:
  
     Step1) iverilog -o aout main.v testbench.v 
 
-   <i>If the compilation went OK, you won't see any output. <br />
+<i>If the compilation went OK, you won't see any output. <br />
 	What this does is create a file called  aout that we can feed to the simulator.</i>
 
     Step2) vvp aout 
 
-	<i>You can observe output on the console</i>
+<i>You can observe output on the console</i>
 
     Step3) gtkwave dump.vcd 
 
-	<i>Output waveform will be observed.</i>
+<i>Output waveform will be observed.</i>
 
